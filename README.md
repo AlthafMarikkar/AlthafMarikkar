@@ -1,6 +1,6 @@
 <!-- Animated Banner -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300" alt="Coding GIF">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnhrMGdoZ3ZzcWltc2kyOTRhZmVwcXBjZzZhaXNpYmEzb2JxbmYyZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="600" height="300" alt="Coding GIF">
 </p>
 
 <!-- Title & Typing Animation -->
